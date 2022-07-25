@@ -1,5 +1,9 @@
 # ChatApp
 
+A chatting and video calling web app where the developer community can discuss about the latest tools and techniques.
+
+!(https://user-images.githubusercontent.com/88135890/180822539-8b35ee66-c5bb-4eb2-9844-39dfe379dc96.png)
+
 
 ## Available Scripts
 
